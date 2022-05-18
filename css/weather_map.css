@@ -1,0 +1,60 @@
+#locationName {
+    width: 50%
+}
+
+body {
+    background-image: url('../pictures_and_stuff/beachbackground.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.icon {
+    height: 5rem;
+    width: 5rem;
+}
+
+.icon-smaller {
+    height: 3.5rem;
+    width: 3.5rem;
+}
+
+.footer-div {
+    height: 5rem;
+}
+
+.weather-logo{
+    width: 10rem;
+    height:10rem;
+}
+
+.weather-pic {
+    height: 17rem;
+    width: 19rem;
+}
+
+.weather-pic-repeat {
+    height: 15rem;
+    width: 17rem;
+}
+
+.locationInput {
+    width: 80%;
+}
+
+.setWidth80 {
+    width: 80%;
+}
+
+.cardStyle {
+    background-color: rgba(255, 255, 255, 0.25);
+}
+
+.ramaraja {
+    font-family: 'Oswald', sans-serif;
+}
+
+.shadowy {
+    -moz-box-shadow: 0 0 3px #ccc;
+    -webkit-box-shadow: 0 0 3px #ccc;
+    box-shadow: 0 0 3px #ccc;
+}
